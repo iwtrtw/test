@@ -1,1 +1,4 @@
 Switched to a new branch 'dev'
+Merge made by the 'recursive' strategy.
+ readme.txt | 1 +
+ 1 file changed, 1 insertion(+)
