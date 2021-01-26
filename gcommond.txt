@@ -1,5 +1,0 @@
-Git is a version control system.
-Git is free software.
-On branch master
-git diff HEAD -- readme.txt
-
